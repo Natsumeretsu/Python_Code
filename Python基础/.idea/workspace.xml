@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="77d59b0e-9ae1-41fe-abe5-a7ea5667b932" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="2468f177-8a53-47d8-8b14-2ea0b988794f" />
+  <component name="ProjectId" id="1hondKqP5owKPrRV0uiVJChYKMA" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77d59b0e-9ae1-41fe-abe5-a7ea5667b932" name="Default Changelist" comment="" />
+      <created>1600686399609</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600686399609</updated>
+      <workItem from="1600686414898" duration="29000" />
+      <workItem from="1600686574648" duration="8559000" />
+      <workItem from="1600750295320" duration="4054000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="235" y="53" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600756245718">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="235" y="53" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1600756245718" />
+    <state width="1322" height="146" key="GridCell.Tab.0.bottom" timestamp="1600756238980">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1322" height="146" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600756238980" />
+    <state width="1322" height="146" key="GridCell.Tab.0.center" timestamp="1600756238980">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1322" height="146" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600756238980" />
+    <state width="1322" height="146" key="GridCell.Tab.0.left" timestamp="1600756238980">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1322" height="146" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600756238980" />
+    <state width="1322" height="146" key="GridCell.Tab.0.right" timestamp="1600756238980">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1322" height="146" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600756238980" />
+    <state width="1318" height="183" key="GridCell.Tab.1.bottom" timestamp="1600690860323">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1318" height="183" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600690860323" />
+    <state width="1318" height="183" key="GridCell.Tab.1.center" timestamp="1600690860323">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1318" height="183" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1600690860323" />
+    <state width="1318" height="183" key="GridCell.Tab.1.left" timestamp="1600690860323">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1318" height="183" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1600690860323" />
+    <state width="1318" height="183" key="GridCell.Tab.1.right" timestamp="1600690860323">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1318" height="183" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1600690860323" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/basic$D_03_.coverage" NAME="D_03_多行分割线 Coverage Results" MODIFIED="1600692622586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_函数" />
+    <SUITE FILE_PATH="coverage/basic$test.coverage" NAME="test Coverage Results" MODIFIED="1600756013065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_高级数据类型" />
+    <SUITE FILE_PATH="coverage/basic$D_07_.coverage" NAME="D_07_嵌套循环练习 Coverage Results" MODIFIED="1600686591898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_练习" />
+    <SUITE FILE_PATH="coverage/basic$D_04_.coverage" NAME="D_04_分隔符模块 Coverage Results" MODIFIED="1600693760736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_函数" />
+    <SUITE FILE_PATH="coverage/basic$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1600686914029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_练习" />
+    <SUITE FILE_PATH="coverage/basic$D_01_.coverage" NAME="D_01_第一个函数 Coverage Results" MODIFIED="1600687844929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_函数" />
+    <SUITE FILE_PATH="coverage/basic$hm_19_.coverage" NAME="hm_19_字符串拆分和拼接 Coverage Results" MODIFIED="1600751370775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/黑马程序员 Python 笔记/黑马程序员 Python 笔记/02 Python 基础资料/代码/05_高级数据类型_day06/05_高级数据类型" />
+    <SUITE FILE_PATH="coverage/basic$.coverage" NAME="test Coverage Results" MODIFIED="1600751147644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_高级数据类型" />
+    <SUITE FILE_PATH="coverage/basic$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1600751440817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_高级数据类型" />
+    <SUITE FILE_PATH="coverage/basic$D_02_.coverage" NAME="D_02_加法器+分割线 Coverage Results" MODIFIED="1600692425735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_函数" />
+  </component>
+</project>
