@@ -3,7 +3,8 @@
 '''
 import socket
 import multiprocessing
-from FrameWork import application
+# from FrameWork import application
+from FrameWork_V1利用模板实现首页显示 import application
 
 
 class MiniWebServer(object):
@@ -115,8 +116,8 @@ class MiniWebServer(object):
                     client.close()
 
     # 定义一个回调函数
-    def start_resoponse(self, status, headers):
-        # 在这里,可以直接拼接响应报文中的一部分数据,也可以先保存后拼接
+    def start_response(self, status, headers):
+        # 在这里,可以直接拼接响应报文中的一部分数据,也可以先保存,后拼接
         self.__status = status
         self.__headers = headers
 
