@@ -20,7 +20,10 @@ def application(environ, start_response):
 
 # 首页的数据函数
 def index():
-    return "<h1>Index Page Run ...</h1>"
+    # 通过模板文件来读取文件内容,将页面的基本结构返回,让客户端显示
+    with open('templates/index.html', 'rb+') as f:
+        content = f.read()
+    return content
 
 
 # 中心的数据函数
